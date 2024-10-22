@@ -1074,7 +1074,7 @@
 
 #### jQuery
 
-* [Bento jQuery Track](https://bento.io/topic/jquery) (Bento)
+* [Bento jQuery Track](https://bento.io/topic/jquery) (Bento)  
 * [Introduction to JQuery](https://www.udacity.com/course/intro-to-jquery--ud245) (Udacity)
 * [jQuery Crash Course](https://www.youtube.com/playlist?list=PLillGF-RfqbYJVXBgZ_nA7FTAAEpp_IAc) - Brad Traversy, Traversy Media
 
